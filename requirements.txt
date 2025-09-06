@@ -1,0 +1,6 @@
+playwright
+pillow
+numpy
+pandas
+tensorflow==2.16.1
+keras==3.*
